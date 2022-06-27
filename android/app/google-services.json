@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808158655529",
+    "project_id": "mid-project-6169b",
+    "storage_bucket": "mid-project-6169b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808158655529:android:1a94fa995a4e1912685838",
+        "android_client_info": {
+          "package_name": "com.example.kasirfoodorderingcopasokene"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808158655529-vhgls537srqcpqkfmmjpps90qtklge4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw6jyaWLhh5ZvpMJzLp7wy6i9aVHj9FWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808158655529-vhgls537srqcpqkfmmjpps90qtklge4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
